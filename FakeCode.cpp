@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Hello, Nigeria!\n";
+	// std::cout << "Hello, Quebec!\n";
 	return 0;
 }
