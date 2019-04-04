@@ -2,6 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello, Montreal!\n";
+
+	std::cout << "Hello, Montreal and Quebec!\n";
+
 	return 0;
 }
