@@ -3,7 +3,7 @@
 int main()
 {
 
-	std::cout << "Hello, Montreal and Quebec!\n";
+	std::cout << "Hello, not only Montreal!\n";
 
 	return 0;
 }
